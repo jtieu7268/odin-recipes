@@ -1,5 +1,25 @@
 body {
-    background: rgb(240, 174, 139);
+    background: rgb(245, 219, 206);
     font-family: Arial, Helvetica, sans-serif;
+    color: rgb(93, 126, 170);
+}
+
+h1 {
+    font-size: 96px;
+    text-align: center;
+    margin: 20px
+}
+
+p , li {
+    color: rgb(133, 165, 207);
+}
+
+img {
+    border: 3px solid rgb(93, 126, 170);
+    padding: 0;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
